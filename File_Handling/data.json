@@ -1,0 +1,10 @@
+{
+  "name": "Rahul",
+  "age": 26,
+  "is_student": true,
+  "skills": ["Python", "File Handling", "AI"],
+  "address": {
+    "city": "Seattle",
+    "state": "WA"
+  }
+}
