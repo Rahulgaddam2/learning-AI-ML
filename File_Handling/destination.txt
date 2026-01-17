@@ -1,0 +1,6 @@
+I have overwrittern the file
+this is the new line
+I am using mode a -> append mode
+This is my first line
+This is my second line
+This is my 3rd line
