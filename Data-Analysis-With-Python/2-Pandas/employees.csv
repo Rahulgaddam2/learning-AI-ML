@@ -1,0 +1,11 @@
+EmployeeID,Name,Department,Age,Salary,ExperienceYears,City,JoinDate
+101,Rahul,IT,25,70000,2,Seattle,2023-06-15
+102,Alex,HR,30,60000,5,New York,2021-03-10
+103,Sara,Finance,28,65000,4,Chicago,2022-01-20
+104,John,IT,35,90000,10,Seattle,2018-08-05
+105,Emily,HR,NaN,58000,3,Boston,2022-11-01
+106,David,Finance,40,110000,15,Chicago,2015-05-18
+107,Nina,IT,27,72000,3,San Francisco,2023-02-12
+108,Tom,Marketing,29,55000,4,New York,2021-09-25
+109,Linda,Marketing,33,62000,7,Boston,2019-04-14
+110,Chris,IT,NaN,80000,6,Seattle,2020-07-30
