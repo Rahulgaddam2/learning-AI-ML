@@ -1,0 +1,11 @@
+EmployeeID,Name,Department,Age,Salary,ExperienceYears,City,JoinDate,PerformanceScore
+2001,Rahul,IT,25,70000,2,Seattle,2023-06-15,3.8
+2002,Alex,HR,30,60000,5,New York,2021-03-10,
+2003,Sara,Finance,,65000,4,Chicago,2022-01-20,3.5
+2004,John,IT,35,,10,Seattle,2018-08-05,4.5
+2005,Emily,HR,29,58000,,Boston,2022-11-01,3.1
+2006,David,Finance,40,110000,15,,2015-05-18,4.7
+2007,Nina,IT,27,72000,3,San Francisco,,3.9
+2008,Tom,Marketing,29,55000,4,New York,2021-09-25,2.8
+2009,Linda,Marketing,,62000,7,Boston,2019-04-14,
+2010,Chris,IT,31,80000,6,Seattle,2020-07-30,4.0

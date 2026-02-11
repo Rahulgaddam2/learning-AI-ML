@@ -1,0 +1,26 @@
+EmployeeID,Name,Department,City,Age,Gender,ExperienceYears,Salary,PerformanceScore,JoinDate,Attrition
+1001,Rahul,IT,Seattle,25,M,2,70000,3.8,2023-06-15,No
+1002,Alex,HR,New York,30,M,5,60000,3.2,2021-03-10,No
+1003,Sara,Finance,Chicago,28,F,4,65000,3.5,2022-01-20,No
+1004,John,IT,Seattle,35,M,10,90000,4.5,2018-08-05,No
+1005,Emily,HR,Boston,29,F,3,58000,3.1,2022-11-01,Yes
+1006,David,Finance,Chicago,40,M,15,110000,4.7,2015-05-18,No
+1007,Nina,IT,San Francisco,27,F,3,72000,3.9,2023-02-12,No
+1008,Tom,Marketing,New York,29,M,4,55000,2.8,2021-09-25,Yes
+1009,,Marketing,Boston,33,F,7,62000,3.4,2019-04-14,No
+1010,Chris,IT,Seattle,31,M,6,80000,4.0,2020-07-30,No
+1011,Arjun,Finance,Dallas,26,M,2,63000,3.6,2023-01-10,No
+1012,Priya,IT,Austin,28,F,4,,4.1,2021-12-05,No
+1013,Michael,Sales,Chicago,34,M,8,68000,3.0,2019-06-22,Yes
+1014,Anita,HR,Seattle,41,F,15,88000,4.6,2014-02-17,No
+1015,Robert,Sales,Dallas,37,M,12,72000,3.3,2016-09-01,No
+1016,Sophia,Marketing,San Francisco,26,F,2,56000,3.7,2023-05-08,No
+1017,Daniel,IT,New York,39,M,14,98000,4.8,2012-11-11,No
+1018,Meena,Finance,Austin,32,F,9,83000,4.2,2018-03-19,No
+1019,Kevin,Sales,Boston,29,M,5,66000,3.1,2020-10-27,Yes
+1020,Pooja,IT,Seattle,24,F,1,65000,3.9,2024-01-05,No
+1021,Andrew,HR,Chicago,36,M,11,77000,4.0,2016-04-23,No
+1022,Kiran,Finance,San Jose,34,M,10,90000,4.4,2017-08-14,No
+1023,Jessica,Marketing,Austin,31,F,6,61000,3.5,2019-12-30,No
+1024,Ramesh,Sales,San Francisco,42,M,18,88000,4.1,2010-07-07,No
+1025,Laura,IT,Boston,27,F,3,71000,3.8,2022-06-18,No
