@@ -1,0 +1,16 @@
+Order_ID,Date,Region,Product,Category,Units_Sold,Unit_Price,Total_Sales
+1001,2025-01-05,East,Laptop,Electronics,5,800,4000
+1002,2025-01-07,West,Phone,Electronics,10,500,5000
+1003,2025-01-10,North,Desk,Furniture,7,200,1400
+1004,2025-01-12,South,Chair,Furniture,12,100,1200
+1005,2025-01-15,East,Tablet,Electronics,6,300,1800
+1006,2025-01-18,West,Printer,Electronics,4,250,1000
+1007,2025-01-20,North,Monitor,Electronics,8,150,1200
+1008,2025-01-22,South,Sofa,Furniture,3,900,2700
+1009,2025-01-25,East,Keyboard,Accessories,15,40,600
+1010,2025-01-28,West,Mouse,Accessories,20,25,500
+1011,2025-02-02,North,Laptop,Electronics,3,800,2400
+1012,2025-02-05,South,Desk,Furniture,5,200,1000
+1013,2025-02-08,East,Phone,Electronics,9,500,4500
+1014,2025-02-12,West,Chair,Furniture,10,100,1000
+1015,2025-02-15,North,Tablet,Electronics,4,300,1200
